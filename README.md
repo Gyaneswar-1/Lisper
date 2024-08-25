@@ -21,8 +21,6 @@ also responsive for mobile devices
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 - [Axios] - api call for web apps!
 - [vs code] - awesome text editor
 - [css] - great UI boilerplate for modern web apps
@@ -35,19 +33,11 @@ Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd server
 npm i
 nodemon index.js
-cd ..
 ```
 
-For running app...
-
-```sh
-cd client
-npm run dev
-o + Enter
-```
+> open https://localhost:3000/
 
 # Important
 postgreSQL should be installed on your device 
