@@ -1,4 +1,4 @@
-# Lisper
+# Lisper 🫥
 ## _API Project_
 
 
@@ -11,8 +11,8 @@ also responsive for mobile devices
 ![on hovor](./image.png)
 ![](./image1.png)
 
-- Type some Markdown on the left
-- ◀️ axios
+
+- axios 🌲
 - ✨ beautiful ui✨ 
 
 
@@ -23,9 +23,9 @@ also responsive for mobile devices
 
 Dillinger uses a number of open source projects to work properly:
 
-- [ReactJS] - HTML enhanced for web apps!
+- [Axios] - api call for web apps!
 - [vs code] - awesome text editor
-- [bootstrap  css] - great UI boilerplate for modern web apps
+- [css] - great UI boilerplate for modern web apps
 - [node.js] - evented I/O for the backend.
 
 ## Installation
